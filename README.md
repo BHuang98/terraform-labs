@@ -1,2 +1,5 @@
 # terraform-labs
-Lab files for https://aka.ms/citadel/terraform workshop
+# Azure Secure Landing Zone  
+- Deployed a hub-spoke network with restrictive NSGs.  
+- Enabled Azure Defender for VMs and Storage.  
+- Automated via Terraform.  
